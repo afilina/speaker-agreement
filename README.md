@@ -1,5 +1,7 @@
 # Speaker Agreement
 
+[event dates in header]
+
 ## Mission
 
 [Once sentence mission. Example: The mission of ConFoo is to improve the quality of software and the productivity of the developers who write it.]## Responsibilities
